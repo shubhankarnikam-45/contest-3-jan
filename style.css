@@ -1,0 +1,49 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: sans-serif;
+}
+
+h1{
+    color:white;
+}
+
+
+.container{
+
+    padding: 24px;
+    position: relative;
+    left: 356px;
+    top: 15px;
+    background-color: black;
+    max-width: 271px;
+    min-width: 271px;
+    height:400px;
+}
+
+.container div{
+    padding:4px;
+    color:tomato;
+}
+
+.container input{
+    width: 267px;
+    padding: 3px;
+    color: black;
+    border: 2px solid purple;
+}
+
+.container .btn{
+    width: 52px;
+    position: relative;
+    left: 102px;
+}
+
+.container .error-box{
+    height: 126px;
+    border: 1px solid tomato;
+}
+
+.container p{
+    color:red;
+}
